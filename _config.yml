@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Eden Zhang, Auckland studying at SaintKentigern College
 permalink: ':title/'
 baseurl: "/Eden-Zhang" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "VelocityEdx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
@@ -12,7 +12,7 @@ author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: artemsheludko # add your Github handle
+social-github: VelocityDv # add your Github handle
 social-linkedin: # add your Linkedin handle
 social-email: # add your Email address
 
